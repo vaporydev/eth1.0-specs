@@ -1,4 +1,4 @@
-# Network Upgrade Process - Eth1.0 Specification 
+# Network Upgrade Process - Vap1.0 Specification 
 
 ## Description
 This provides a general outline process to propose, discuss, and track the progress of EIPs considered for network upgrades to Ethereum Mainnet.
